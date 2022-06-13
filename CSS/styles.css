@@ -1,0 +1,164 @@
+/* Break One */
+body {
+  font-family: 'Kdam Thmor Pro';
+}
+
+a {
+  color: black;
+}
+
+p {
+  font-size: 1.3rem;
+}
+h1 {
+  margin-bottom: 0px;
+}
+
+/* Break Two */
+.shortcuts {
+  text-align: center;
+  padding-top: 5px;
+  font-size: 1.3rem;
+  color: black;
+}
+
+.div1 {
+  background-color: #1FAB89;
+  padding-bottom: 10px;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.section1 {
+  padding: 3% 15% 4% 15%;
+  text-align: center;
+  background-color: #62D2A2;
+}
+
+
+.hr2 {
+  box-shadow: 2px 1px 4px 10px #62D2A2;
+  border: 0;
+  margin: 0;
+}
+
+.maxwell {
+  height: 250px;
+  width: 250px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0px 0px 30px 10px #1FAB89;
+  border-radius: 50%;
+}
+
+.carouselp {
+  width: 50%;
+  margin: auto;
+  padding-top: 0px;
+}
+
+.carousel-item {
+  height: 400px;
+}
+
+.gamer {
+  height: 150px;
+  width: 150px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0px 0px 30px 10px #1FAB89;
+  border-radius: 50%;
+}
+
+.skills {
+  height: 1000px;
+}
+
+.a1 {
+  padding-left: 75px;
+}
+
+.skills {
+  background-color: #9DF3C4;
+}
+
+.image2 {
+  height: 300px;
+  width: 300px;
+  margin-top: -125px;
+  margin-bottom: 20px;
+  margin-left: 75px;
+  box-shadow: 0px 0px 30px 10px #62D2A2;
+  border-radius: 50%;
+  position: relative;
+}
+
+.skills2 {
+  width: 100%;
+  height: 400px;
+  text-align: left;
+  padding-top: 50px;
+}
+
+.text1 {
+  padding-top: 40px;
+}
+
+.text2 {
+  margin-left: 730px;
+  position: absolute;
+  font-size: 2.3rem;
+}
+.list1 {
+  display: inline-block;;
+  font-size: 2rem;
+  line-height: 140px;
+  position: relative;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.list2 {
+  display: inline-block;
+  font-size: 2rem;
+  line-height: 140px;
+  position: relative;
+  margin-left: 100px;
+  margin-top: 100px;
+
+
+}
+.image3 {
+  height: 300px;
+  width: 300px;
+  box-shadow: 0px 0px 30px 10px #62D2A2;
+  border-radius: 50%;
+  position: relative;
+  margin-bottom: 150px;
+  margin-left: 100px;
+
+
+}
+.skills3 {
+  margin-left: 181px;
+  margin-top: 100px;
+}
+.text3 {
+  margin-left: 550px;
+  position: absolute;
+  font-size: 2.3rem;
+}
+.contactme {
+  background-color: #1FAB89;
+
+}
+.contactp {
+  display: inline-block;
+  padding: 0 30px;
+}
+.contactmeh {
+  display: inline-block;
+}
+
+
+/* Break Three */
